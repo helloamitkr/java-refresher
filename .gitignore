@@ -1,3 +1,7 @@
-java.iml
-.idea
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Output directory
 out/
+
